@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hello, I am Emilio 😎
+
+#### I am a recent graduate from the University of Wisconsin - Madison. Very interested in Software Engineer and Applied AI Systems.
+
+### Website:
+#### [emiliofayad.com](https://emiliofayad.com/)
+
+#### Feel free to check out my projects that span many of my interests in programming
 
 <!--
 **efayadv/efayadv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
