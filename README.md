@@ -2,6 +2,10 @@
 
 #### I am a recent graduate from the University of Wisconsin - Madison. Very interested in Software Engineer and Applied AI Systems.
 
+### Connect with me:
+#### [Linkedin](https://www.linkedin.com/in/emilio-fayad-217649271/)
+#### email: [emiliofav@gmail.com]
+
 ### Website:
 #### [emiliofayad.com](https://emiliofayad.com/)
 
