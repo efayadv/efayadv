@@ -1,4 +1,4 @@
-# Hello, I am Emilio 😎
+# Hello, I'm Emilio 😎
 
 #### I am a recent graduate from the University of Wisconsin - Madison. Very interested in Software Engineer and Applied AI Systems.
 
